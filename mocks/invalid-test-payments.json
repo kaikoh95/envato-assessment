@@ -1,0 +1,5 @@
+[
+  { "user": "coach", "amount": 2.50 },
+  { "user": "ellis", "amount": 2.60 },
+  { "user": "rochelle", "amount": 4.50 },
+  { "user": "ellis", "amount": 0.65 }
